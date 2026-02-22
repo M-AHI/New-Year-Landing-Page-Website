@@ -1,6 +1,8 @@
-**New-Year-Landing-Page-Website**
+Below is a **full project report** written in **easy, clear English**, based on the contents of the uploaded **NewYear-main** project.
 
-**(Project Report)**
+---
+
+# **Project Report**
 
 ## 1. Project Information
 
@@ -174,3 +176,14 @@ This project is a **great beginner-level frontend website** that demonstrates:
 * Good design sense
 
 It successfully fulfills the goal of the assignment given by **Programming Hero** and provides a strong foundation for more advanced web development projects in the future.
+
+---
+
+If you want, I can also:
+
+* Convert this report into **PDF / DOCX**
+* Add **diagrams** (use case, architecture)
+* Rewrite it for **university submission**
+* Add **screenshots section**
+
+Just tell me 👍
