@@ -1,6 +1,6 @@
-New-Year-Landing-Page-Website
+**New-Year-Landing-Page-Website**
 
-(Project Report)
+**(Project Report)**
 
 ## 1. Project Information
 
