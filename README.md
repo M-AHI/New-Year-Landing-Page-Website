@@ -1,7 +1,3 @@
-Below is a **full project report** written in **easy, clear English**, based on the contents of the uploaded **NewYear-main** project.
-
----
-
 # **Project Report**
 
 ## 1. Project Information
